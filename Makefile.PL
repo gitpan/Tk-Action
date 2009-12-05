@@ -11,7 +11,7 @@ WriteMakefile(
   NAME      => 'Tk::Action',
   AUTHOR    => "Jerome\ Quelin",
   ABSTRACT  => "action\ abstraction\ for\ tk",
-  VERSION   => '1.093380',
+  VERSION   => '1.093390',
   EXE_FILES => [ qw() ],
   (eval { ExtUtils::MakeMaker->VERSION(6.31) } ? (LICENSE => 'perl') : ()),
   PREREQ_PM    => {

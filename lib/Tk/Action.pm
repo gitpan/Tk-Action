@@ -11,7 +11,7 @@ use strict;
 use warnings;
 
 package Tk::Action;
-our $VERSION = '1.093380';
+our $VERSION = '1.093390';
 
 
 # ABSTRACT: action abstraction for tk
@@ -121,7 +121,7 @@ Tk::Action - action abstraction for tk
 
 =head1 VERSION
 
-version 1.093380
+version 1.093390
 
 =head1 SYNOPSIS
 

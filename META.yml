@@ -2,6 +2,10 @@
 abstract: 'action abstraction for tk'
 author:
   - 'Jerome Quelin'
+build_requires:
+  Module::Build: 0.35
+configure_requires:
+  Module::Build: 0.35
 generated_by: 'Dist::Zilla version 1.093290'
 license: perl
 meta-spec:
@@ -11,7 +15,7 @@ name: Tk-Action
 provides:
   Tk::Action:
     file: lib/Tk/Action.pm
-    version: 1.093380
+    version: 1.093390
 requires:
   English: 0
   File::Find: 0
@@ -24,4 +28,4 @@ requires:
 resources:
   homepage: http://search.cpan.org/dist/Tk-Action
   repository: http://github.com/jquelin/tk-action
-version: 1.093380
+version: 1.093390
